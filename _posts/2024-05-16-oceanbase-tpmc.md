@@ -3,7 +3,7 @@ layout: post
 title: "[reading review] OceanBase: A 707 Million tpmC Distributed Relational Database System"
 date: 2024-05-15 15:16:00
 description: reading review
-tags: distributed database
+tags: database
 categories: reading-reviews
 ---
 
