@@ -6,7 +6,7 @@ subtitle: <a href='https://www.tum.de/en/'>Technical University of Munich</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 3545.jpg
   image_circular: false # crops the image to make it circular
   more_info: #> <p>Munich, Bavaria 12345</p>
     
