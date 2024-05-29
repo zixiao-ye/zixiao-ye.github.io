@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.tum.de/en/'>Technical University of Munich</a>. 
+subtitle: <a href='https://www.tum.de/en/'>Technical University of Munich</a>.
 
 profile:
   align: right
   image: 3545.jpg
   image_circular: false # crops the image to make it circular
   more_info: #> <p>Munich, Bavaria 12345</p>
-    
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
